@@ -27,7 +27,7 @@ IVORY = (242, 236, 226)
 # (file, English label, Japanese caption, zoom direction)
 SCENES = [
     ("7C1A4141.jpg", "ONE ROOM, MANY FACES", "ひとつの部屋に、\nいくつもの表情。", +1),
-    ("7C1A4142.jpg", "BEFORE DAWN", "静けさに包まれる、夜明け前", -1),
+    ("7C1A4142.jpg", "IN PRAISE OF SHADOWS", "灯りを落として、\n光と影を愉しむ", -1),
     ("7C1A4143.jpg", "MORNING LIGHT", "障子越しに、やわらかな朝の光", +1),
     ("7C1A4149.jpg", "OPENING", "障子をひらけば、庭の緑", -1),
     ("7C1A4150.jpg", "SEASONS", "窓辺に、季節がうつろう", +1),
